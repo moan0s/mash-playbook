@@ -100,7 +100,7 @@
   version: v1.28.0-0
   name: vaultwarden
 - src: git+https://github.com/moan0s/hubsite.git
-  version: v1.23.3-0
+  version: v1.23.3-1
   name: hubsite
 - src: git+https://github.com/moan0s/role-firezone.git
   version: v0.7.25-0
